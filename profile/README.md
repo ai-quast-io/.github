@@ -19,10 +19,10 @@ You've got an app idea. Or a tool your business keeps wishing existed. Or a spre
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/factory-dark.svg">
-  <img alt="The factory: Intake, Spec, Scaffold, Build, Verify, Release, Learn. Every lesson lands back in the template." src="assets/factory-light.svg" width="100%">
+  <img alt="The factory: Intake, Spec, Scaffold, Build, Verify, Release, Operate, Learn. Every lesson lands back in the template." src="assets/factory-light.svg" width="100%">
 </picture>
 
-Every product goes through the same seven stations. Each one has a definition of done and a human gate. Agents propose, humans approve, the app writes. When something breaks (it will), the fix lands in the template or a CI check, so the next product gets to make brand-new mistakes instead of the old ones.
+Every product goes through the same eight stations. Each one has a definition of done and a human gate. Agents propose, humans approve, the app writes. When something breaks (it will), the fix lands in the template or a CI check, so the next product gets to make brand-new mistakes instead of the old ones.
 
 <br>
 
